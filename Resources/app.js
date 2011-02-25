@@ -3,7 +3,7 @@
 // row from the masterNav's tableView is clicked
 // Coder: @pecdev
 // Brains: @pec1985
-// Follow me an my clone on Twitter
+// Follow me and my clone on Twitter
 
 
 // include all the window. Why you ask?
