@@ -1,0 +1,18 @@
+ This app demonstrates that it is possible to create a splitView app
+ in which all the windows from the detalNav section will close when a
+ row from the masterNav's tableView is clicked
+ Coder: @pecdev
+ Brains: @pec1985
+ Follow me and my clone on Twitter
+ 
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+
